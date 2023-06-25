@@ -282,6 +282,4 @@ void main() {
   cart.keys.contains("Apple")
       ? print("Product found")
       : print("Product not found");
-
-  void foo() {}
 }
