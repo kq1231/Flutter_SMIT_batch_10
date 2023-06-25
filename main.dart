@@ -114,7 +114,7 @@ void main() {
 
   // remove all false values from below list by using
   // removeWhere or retainWhere property.
-  List<Map> usersEligibility = [
+  List<Map<String, dynamic>> usersEligibility = [
     {'name': 'John', 'eligible': true},
     {'name': 'Alice', 'eligible': false},
     {'name': 'Mike', 'eligible': true},
