@@ -3,7 +3,7 @@ import 'dart:math';
 
 void main() {
   // Bismillahir-Rahmanir-Rahim
-  // Allahumma Salli 'ala Muhammad
+  // اللہم صل علی محمد وعلی آل محمد
 
   // Write a program that takes a list of numbers as input and prints the
   // even numbers in the list using a for loop.
